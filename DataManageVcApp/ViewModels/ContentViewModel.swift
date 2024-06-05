@@ -8,7 +8,7 @@
 import Foundation
 import Combine
 import SwiftUI
-
+// class with actior
 @MainActor
 class ContentViewModel : ObservableObject {
 
