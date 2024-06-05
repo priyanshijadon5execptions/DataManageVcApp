@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4EC49FCB-D44D-4363-86B4-162B58DBDD09"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFB87D89-2CD6-4317-921A-DF732C141700"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DataManageVcApp/ViewModels/ContentViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchDataItem()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFB87D89-2CD6-4317-921A-DF732C141700 - cfa521090ece20cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for DataManageVcApp.ContentViewModel.fetchDataItem() async -&gt; ()"
+                  moduleName = "DataManageVcApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya/Downloads/Priyanshi%20Jadon/DataManageVcApp/DataManageVcApp/ViewModels/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "FFB87D89-2CD6-4317-921A-DF732C141700 - 4bce4ef161b47484"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for DataManageVcApp.ContentViewModel.fetchDataItem() async -&gt; ()"
+                  moduleName = "DataManageVcApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya/Downloads/Priyanshi%20Jadon/DataManageVcApp/DataManageVcApp/ViewModels/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "FFB87D89-2CD6-4317-921A-DF732C141700 - bfc0c557b73c6a93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for DataManageVcApp.ContentViewModel.fetchDataItem() async -&gt; ()"
+                  moduleName = "DataManageVcApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kavya/Downloads/Priyanshi%20Jadon/DataManageVcApp/DataManageVcApp/ViewModels/ContentViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD00E258-A8E6-456E-9CBA-A434282358C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DataManageVcApp/View/DispatchgroupView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F26BDA6-5F06-4D80-8D31-D51729AB75FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DataManageVcApp/View/DispatchgroupView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
